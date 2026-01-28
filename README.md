@@ -2,6 +2,8 @@
 
 A lightweight, browser-based vocabulary builder tailored for GRE preparation. Track your progress, sort unknown words, and master your vocabulary efficiently.
 
+![Dashboard Main Interface](images/dashboard.png)
+
 [🚀 Live Demo](https://novo-mahmud.github.io/GRE-Vocab-Builder/)
 
 ## 💻 Usage Modes
@@ -50,6 +52,8 @@ Use the tool entirely offline without internet access.
     - Press **Spacebar**: Toggle definition and synonyms in the sidebar.
 4.  **Sort**:
     - Click the "All unknown together" button to bring red boxes to the top.
+    ![Unknown Words in Cluster](images/unknown_together.png)
+
 
 ## 🛠 Tech Stack
 
