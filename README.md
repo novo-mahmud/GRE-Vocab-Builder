@@ -86,8 +86,11 @@ This project is open source and available under the MIT License.
 ### Md. Mahmudul Hasan Novo
 
 Built for Personal GRE Exam Preperation.
+
 LinkedIn: https://www.linkedin.com/in/novo-mahmud
+
 GitHub: https://github.com/novo-mahmud
+
 Email: novomahmud@gmail,com
 
 # Made with ❤️ for GRE students.
