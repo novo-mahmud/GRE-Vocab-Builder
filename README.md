@@ -91,6 +91,6 @@ LinkedIn: https://www.linkedin.com/in/novo-mahmud
 
 GitHub: https://github.com/novo-mahmud
 
-Email: novomahmud@gmail,com
+Email: novomahmud@gmail.com
 
 # Made with ❤️ for GRE students.
